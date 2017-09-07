@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1504126220 source:c:\users\micae\desktop\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504126168 c:\users\micae\desktop\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1504557832 source:c:\users\micae\desktop\programacion\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504490499 c:\users\micae\desktop\programacion\tp_1_cascara\tp_1_cascara\funciones.h
+
+1504490960 source:c:\users\micae\desktop\programacion\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
